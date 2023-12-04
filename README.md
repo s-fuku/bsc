@@ -34,3 +34,10 @@ Then, run the following script:
 ```bash
 $ python bsc_twitter.py
 ```
+
+## Publications
+Shintaro Fukushima and Kenji Yamanishi: <br>
+Balancing Summarization and Change Detection in Graph Streams. <br>
+23rd IEEE International Conference on Data Mining (ICDM2023), 2023. <br>
+https://arxiv.org/abs/2311.18694 
+
